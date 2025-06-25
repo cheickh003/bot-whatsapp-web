@@ -1,0 +1,9 @@
+{
+  "projectId": "6858ac0a000f54e23e46",
+  "settings": {
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "framework": "nextjs",
+    "port": 3000
+  }
+}
